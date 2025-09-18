@@ -1,6 +1,6 @@
 # 📢 iZooto Unity Package (v1.0.0)
 
-The **iZooto Unity Package** enables push notification support for Unity-based iOS and Android applications using the iZooto SDK.
+The **iZooto Unity Package** enables push notification support for Unity-based Android applications using the iZooto SDK.
 
 ---
 
