@@ -24,6 +24,4 @@ Download the latest release from [Releases](https://github.com/iZooto-App-Push/i
 - Select the downloaded `.unitypackage` file.  
 - Click **Import**.  
 
----
-   pod init
-   pod install
+
